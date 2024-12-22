@@ -1,6 +1,6 @@
 # 🏃‍♂️ Running Game
 
-Welcome to **Running Game**, a fast-paced, action-packed game inspired by the classic Google Chrome "No WiFi Dino" game! Avoid obstacles and jump your way to victory as you test your reflexes and timing! 🎮
+Welcome to **Running Game**, a fast-paced game inspired by the Google Chrome No Wifi game! Avoid the desert obstacles and jump to test your reflexes and timing! 🎮
 
 ---
 
